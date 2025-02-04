@@ -1,0 +1,26 @@
+# Project Title: Predictive Health Insurance Model for Shield Insurance
+
+## Client: Shield Insurance
+## Service Provider: AtliQ AI
+
+### Project Overview
+AtliQ AI will develop a predictive model for Shield Insurance to estimate health insurance premiums based on factors like age, smoking habits, BMI, and medical history.
+
+### Objectives
+- Develop a high-accuracy predictive model.
+- Deploy the model in the cloud.
+- Create an interactive Streamlit application.
+
+### Scope of Work
+1. Data Collection and Preprocessing
+2. Model Development
+3. Model Deployment
+4. Streamlit Application Development
+5. Testing and Validation
+6. Documentation and Training
+
+
+### Acceptance Criteria
+- Successful deployment of the model and application.
+- Model meets accuracy requirements (97% minimum).
+- Application usable by underwriters.
